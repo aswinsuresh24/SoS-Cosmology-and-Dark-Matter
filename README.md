@@ -1,2 +1,2 @@
 # SoS-Cosmology-and-Dark-Matter
-Summer of Science reading project on cosmology and dark matter
+This repository contains $\LaTeX$ code and final report for summer of science project on cosmology and dark matter.
